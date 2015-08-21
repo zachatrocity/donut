@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = donut;
+	cell = PSLinkCell;
+	detail = donutListController;
+	icon = donut.png;
+	isController = 1;
+	label = Donut;
+    };
+}
